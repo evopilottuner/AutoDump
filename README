@@ -1,0 +1,10 @@
+I dont proclaim to be a master programmer far from it. This is a tool that will automate the process of harvesting 
+the NTDS.dit and SYSTEM files even on a live server.
+
+It will create a folder on the C drive called "dump" (c:\dump) then use existing Windows tools to dump the files into 
+the new folder.
+
+This was only tested on a Windows Server 2012 R2. I have only tested this as an admin user but welcome feedback.
+
+Twitter: @evopilottuner
+Email: evovi (at) live . com
